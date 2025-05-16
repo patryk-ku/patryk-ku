@@ -1,4 +1,6 @@
-Hello 👋, my name is Patryk and I'm a full-stack JavaScript enjoyer, 🐧 Penguin Operating System enthusiast, and wannabe 🦀 Rust programmer.
+Hello 👋, my name is Patryk and I'm a full-stack JavaScript enjoyer,  
+🐧 Penguin Operating System enthusiast,  
+and wannabe 🦀 Rust programmer.
 
 My Setup:
 
